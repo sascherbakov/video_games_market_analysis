@@ -24,4 +24,4 @@ Pandas, Numpy, Seaborn, Matplotlib, Scipy
 - При проверке гипотез мы выявили что пользовательские оценки на платформах отличаются (исследовали XBOX One и PC), и что по жанрам тоже есть различия в оценках (Action и Sport). 
 
 
-## Ссылка на сам код с данными и проведенным анализом: https://github.com/sascherbakov/video_games_market_analysis/blob/main/video_games_market_analysis.ipynb
+#### Ссылка на сам код с данными и проведенным анализом: https://github.com/sascherbakov/video_games_market_analysis/blob/main/video_games_market_analysis.ipynb
